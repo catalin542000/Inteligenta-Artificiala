@@ -1,4 +1,0 @@
-northwndConnectionString
-conection string
-
-Data Source=(LocalDB)\MSSQLLocalDB;AttachDbFilename=C:\Users\catal\OneDrive\Desktop\northwnd.mdf;Integrated Security=True;Connect Timeout=30
